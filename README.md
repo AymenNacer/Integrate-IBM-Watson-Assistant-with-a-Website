@@ -1,5 +1,5 @@
 # Integrate-IBM-Watson-Assistant-with-a-Website
-To integrate IBM Watson Assistant with any website, from the IBM assistant add web chat integration and copy the javascript code into your html page
+(Smart Methods Internship) To integrate IBM Watson Assistant with any website, from the IBM assistant add web chat integration and copy the javascript code into your html page
 
 
 I built the IBM Watson Assistant in this repo : https://github.com/AymenNacer/Build-IBM-Watson-Assistant
